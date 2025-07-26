@@ -1,0 +1,2 @@
+# PythonExercic-os
+meus exercicíos 
